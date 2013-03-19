@@ -1,0 +1,9 @@
+{
+  "name": "Apache",
+  "version": "0.0.0",
+  "description": "Simple static webserver",
+  "main": "apache.js",
+  "dependencies": {
+    "express": "3.1.0"
+  }
+}
