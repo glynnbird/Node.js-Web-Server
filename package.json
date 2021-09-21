@@ -1,9 +1,12 @@
 {
-  "name": "Apache",
+  "name": "apache",
   "version": "0.0.0",
   "description": "Simple static webserver",
   "main": "apache.js",
+  "scripts": {
+    "start": "node apache.js"
+  },
   "dependencies": {
-    "express": "3.1.0"
+    "express": "4.17.1"
   }
 }
